@@ -1,35 +1,27 @@
-table,td,tr{
-    border: 7px solid rgb(18, 217, 217);
-    color: black;
-    border-collapse: collapse;
+.btn1{
+    padding: 10px;
 }
-
-td{
-    border-radius: 10px;
+button{
+    width: 50px;
+    height: 50px;
 }
-
-table{
-    margin:100px auto;
-}
-
-td,th,tr{
-    padding: 30px;
-    background-color: bisque;
-}
-
-.res{
-    background-color: white;
-    padding:20px;
-}
-
-.cancel{
+#clear{
     background-color: red;
 }
-
+.one{
+    border: 4px solid rgb(9, 167, 167);
+    width:fit-content;
+    background-color: rgb(9, 167, 167);
+}
+#result{
+    padding: 15px;
+    width: 130px;
+}
 .top{
-    padding: 10px;
     text-align: center;
-    background-color: rgb(18, 217, 217);
-    color:white;
-    font-size: 35px;
+    color: white;
+    font-size: 20px;
+}
+.one{
+    margin: 100px auto;
 }
