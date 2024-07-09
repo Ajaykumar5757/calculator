@@ -1,0 +1,35 @@
+table,td,tr{
+    border: 7px solid rgb(18, 217, 217);
+    color: black;
+    border-collapse: collapse;
+}
+
+td{
+    border-radius: 10px;
+}
+
+table{
+    margin:100px auto;
+}
+
+td,th,tr{
+    padding: 30px;
+    background-color: bisque;
+}
+
+.res{
+    background-color: white;
+    padding:20px;
+}
+
+.cancel{
+    background-color: red;
+}
+
+.top{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(18, 217, 217);
+    color:white;
+    font-size: 35px;
+}
